@@ -1,0 +1,8 @@
+﻿The Fiery-throated Hummingbird (Panterpe insignis) and the Talamanca Hummingbird (Eugenes spectabilis) are both dazzling hummingbirds native to the highlands of Central America, especially Costa Rica and western Panama. While they may inhabit similar ecosystems, they differ in appearance, behavior, and taxonomy.
+
+<table><tr><td><b>Feature <td><b>Fiery-throated Hummingbird<td><b>Talamanca Hummingbird</tr>
+<tr><td>Size <td>Small: ~11–12 cm (4.3–4.7 in) <td>Large: ~13–14 cm (5.1–5.5 in)</tr>
+<tr><td>Coloration <td>Iridescent with a fiery orange-red throat, blue chest, green body, and bright blue crown <td>Metallic green body with brilliant blue-green gorget, violet crown (male); more subdued in females</tr>
+<tr><td>Bill <td>Short, straight, black  (has pink on the lower bill)<td>Longer, slightly decurved, black (completely black)</tr>
+<tr><td>Tail <td>Dark, slightly forked <td>Dark with white tips in females</tr>
+</table>

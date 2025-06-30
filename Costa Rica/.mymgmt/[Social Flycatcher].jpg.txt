@@ -1,0 +1,14 @@
+﻿<table>
+<tr><td>Feature<td> Great Kiskadee<td> Social Flycatcher</tr>
+<tr><td>Head<td>  Bold white eyebrow, black crown, hidden orange/yellow crown patch <td> Similar head pattern but smaller and more compact</tr>
+<tr><td>Back<td>  Rich rufous wings and back <td> Duller brown back</tr>
+<tr><td>Underparts<td>  Bright yellow <td> Also yellow, slightly less vibrant</tr>
+<tr><td>Bill<td>  Thick and large <td> Smaller and thinner</tr>
+</table>
+
+##Social Flycatcher
+
+- Smaller body size and more compact build
+- Shorter, thinner bill compared to the Great Kiskadee's thick, heavy bill
+- Brown back instead of the Great Kiskadee’s richer rufous
+- Subtle facial markings — though it has a white eyebrow and black mask, they are less bold than on a Great Kiskadee
